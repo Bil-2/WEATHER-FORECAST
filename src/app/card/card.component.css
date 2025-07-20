@@ -1,0 +1,12 @@
+
+
+.example-card {
+    min-width: 350px;
+    margin-bottom: 2px;
+    text-align: center;
+    justify-content: center;
+    background-color: var(--card-background);
+    font-size: medium;
+    color: var(--card-color);
+    box-shadow: 0px 10px  10px 10px #0003 !important;
+}
